@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ba6b12f-e9b3-49e4-89f5-c3c6b4cbda36" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MockAnalyzerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MockAnalyzerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai-e-zipper/docs/en/taint-analysis.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/tai-e-zipper/docs/en/taint-analysis.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai-e-zipper/input/compiled/unwrapped/main/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai-e-zipper/input/compiled/unwrapped/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai-e-zipper/input/compiled/unwrapped/main/SyncBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai-e-zipper/input/compiled/wrapped/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai-e-zipper/input/compiled/wrapped/main/MyCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai-e-zipper/input/compiled/wrapped/main/MyIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai-e-zipper/input/uncompiled/clean/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai-e-zipper/input/uncompiled/clean/School.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai-e-zipper/input/uncompiled/clean/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai-e-zipper/input/uncompiled/clean/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai-e-zipper/input/uncompiled/unwrapped/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai-e-zipper/input/uncompiled/unwrapped/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai-e-zipper/input/uncompiled/unwrapped/SynchBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai-e-zipper/input/uncompiled/wrapped/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai-e-zipper/input/uncompiled/wrapped/MyCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai-e-zipper/input/uncompiled/wrapped/MyIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai-e-zipper/src/main/java/pascal/taie/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/tai-e-zipper/src/main/java/pascal/taie/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai-e-zipper/src/main/java/pascal/taie/WorldBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/tai-e-zipper/src/main/java/pascal/taie/WorldBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai-e-zipper/src/main/java/pascal/taie/analysis/pta/plugin/ResultProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/tai-e-zipper/src/main/java/pascal/taie/analysis/pta/plugin/ResultProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai-e-zipper/src/main/java/pascal/taie/analysis/pta/plugin/invokedynamic/LookupModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/tai-e-zipper/src/main/java/pascal/taie/analysis/pta/plugin/invokedynamic/LookupModel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2hubOnc6zwHSVJ0GhGqctXcfdWf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "android.gradle.sync.needed": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/shaha/Desktop/analyzerService",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shaha\Desktop\Semester6\Nosim\analyzerService\tai-e-zipper\src\main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="untitled.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ba6b12f-e9b3-49e4-89f5-c3c6b4cbda36" name="Changes" comment="" />
+      <created>1718446880402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718446880402</updated>
+      <workItem from="1718446881348" duration="2277000" />
+      <workItem from="1718450112085" duration="2189000" />
+      <workItem from="1718453333233" duration="927000" />
+      <workItem from="1719054442919" duration="16723000" />
+      <workItem from="1719149971835" duration="4618000" />
+      <workItem from="1719499228838" duration="2764000" />
+      <workItem from="1719502072887" duration="841000" />
+      <workItem from="1719502940149" duration="1733000" />
+      <workItem from="1719505055361" duration="1476000" />
+      <workItem from="1719506933874" duration="718000" />
+      <workItem from="1719508446377" duration="655000" />
+      <workItem from="1719566101134" duration="34000" />
+      <workItem from="1719572704368" duration="1477000" />
+      <workItem from="1719574598320" duration="661000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
